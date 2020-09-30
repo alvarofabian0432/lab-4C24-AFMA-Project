@@ -1,3 +1,9 @@
 # lab-4C24-AFMA-Project
 
-Alvaro Motta
+Descripción breve del proyecto
+
+## Empezando
+
+
+Instrucciones para empezar el proyecto
+
